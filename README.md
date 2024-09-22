@@ -25,8 +25,6 @@ Instructions for using the software:
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Python 3.12
-* 
-*
 
 ## Useful Websites to Learn More
 
